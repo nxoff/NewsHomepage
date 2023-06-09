@@ -1,0 +1,11 @@
+.header-wrapper-section {
+	width: 100%;
+	height: fit-content;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	justify-content: space-between;
+	margin: 0px;
+	padding-top: 53px;
+	padding-bottom: 40px;
+}
